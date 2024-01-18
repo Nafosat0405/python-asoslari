@@ -1,5 +1,5 @@
 class Jurnal:
-    def __init(self,nomi,davriylik,korinishi,nashriyot):
+    def __init__(self,nomi,davriylik,korinishi,nashriyot):
         self.nomi=nomi
         self.davriylik=davriylik
         self.korinishi=korinishi
